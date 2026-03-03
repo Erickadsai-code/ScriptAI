@@ -1,0 +1,13 @@
+project_id = "ookiwkgbakzjjqdeutxm"
+
+[functions.generate-scripts]
+verify_jwt = false
+
+[functions.fetch-instagram-metrics]
+verify_jwt = false
+
+[functions.generate-copy]
+verify_jwt = false
+
+[functions.publish-instagram]
+verify_jwt = false
